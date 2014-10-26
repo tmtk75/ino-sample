@@ -1,0 +1,2 @@
+ino:
+	pip install ino
